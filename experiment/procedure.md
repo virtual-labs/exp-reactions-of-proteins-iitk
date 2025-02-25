@@ -14,7 +14,7 @@
 2.	Measure 5 ml of egg albumin using measuring cylinder and pour in each of the six test tubes labelled T1, T2, T3, T4, T5 and T6. <br>
 3.	Heat the test tube T1, T2, T3, T4, T5 and T6 in a water bath maintained at 40, 50, 60, 70, 80 and 90°C respectively for 5 min. <br>
 4.	Invert the test tubes and observe the visual changes. <br>
-5.	Observe the changes. <br>
+
 
 
 

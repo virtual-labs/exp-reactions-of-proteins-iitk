@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What was the observed consistency of egg albumen at 40°C?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Solid",
+        "b": "Semi-solid",
+        "c": "Liquid",
+        "d": "Fully coagulated"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,67 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. At which temperature did the egg albumen become completely opaque and solid?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "40°C",
+        "b": "50°C",
+        "c": "70°C",
+        "d": "90°C"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What physical change indicates full protein denaturation in the experiment?",
+      "answers": {
+        "a": "Translucence",
+        "b": "Opaque and liquid consistency",
+        "c": "Complete opacity and solid state",
+        "d": "Mild opaqueness with liquid consistency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which of the following correctly describes the change in sample T3 (60°C)?",
+      "answers": {
+        "a": "Translucent and liquid",
+        "b": "Partially opaque and semi-solid",
+        "c": "Completely opaque and solid",
+        "d": "Slightly opaque but still fluid"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What conclusion can be drawn from this experiment regarding protein structure?",
+      "answers": {
+        "a": "Proteins are unaffected by heat",
+        "b": "Proteins dissolve completely when heated",
+        "c": "Protein structure changes with temperature, leading to denaturation",
+        "d": "Proteins become translucent and stay liquid at high temperatures"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",

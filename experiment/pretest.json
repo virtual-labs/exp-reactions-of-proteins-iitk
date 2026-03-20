@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Which type of macromolecule is being studied in this experiment?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Carbohydrates",
+        "b": "Lipids",
+        "c": "Proteins",
+        "d": "Nucleic acids"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,67 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. What is the primary protein present in egg albumen?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Casein",
+        "b": "Ovalbumin",
+        "c": "Collagen",
+        "d": "Hemoglobin"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What happens to proteins when they are heated beyond their stability range?",
+      "answers": {
+        "a": "Polymerization",
+        "b": "Denaturation",
+        "c": "Hydrolysis",
+        "d": "Neutralization"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Denaturation of proteins involves disruption of which bonds?",
+      "answers": {
+        "a": "Peptide bonds",
+        "b": "Hydrogen bonds and ionic bonds",
+        "c": "Glycosidic bonds",
+        "d": "Ester bonds"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. At which temperature range is denaturation of egg albumen expected to begin?",
+      "answers": {
+        "a": "10°C to 20°C",
+        "b": "30°C to 40°C",
+        "c": "50°C to 60°C",
+        "d": "80°C to 90°C"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
